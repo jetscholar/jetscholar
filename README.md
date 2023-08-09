@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on General Machine Learning and IoT projectrs
 - 🌱 I’m currently learning Python, C++ and Node.js
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about anything
 
 - ⚡ Fun fact: I am older than JavaScript!
 
