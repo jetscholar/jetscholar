@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on General Machine Learning and IoT projectrs
-- 🌱 I’m currently learning Python, C++ and Node.js
+- 🔭 I’m currently working on General Machine Learning and IoT projects
+- 🌱 I’m currently learning Python, C++, Java and Node.js
 
 - 💬 Ask me about anything
 
